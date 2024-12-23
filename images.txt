@@ -1,1 +1,1 @@
-nginx:latest
+python:3.14.0a3-windowsservercore
