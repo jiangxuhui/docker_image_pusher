@@ -1,1 +1,1 @@
-python:3.14.0a3-windowsservercore
+openjdk:8u102-jdk
