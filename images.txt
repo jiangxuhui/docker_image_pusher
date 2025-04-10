@@ -1,1 +1,1 @@
-demisto/fastapi:0.115.9.2587379
+python:3.12
