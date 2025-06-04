@@ -1,1 +1,1 @@
-emqx/emqx:5.2
+apacherocketmq/rocketmq-dashboard:latest
