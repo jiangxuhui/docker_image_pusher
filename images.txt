@@ -1,1 +1,1 @@
-justb4/jmeter
+alpine:3.12
