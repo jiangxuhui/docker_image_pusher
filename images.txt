@@ -1,1 +1,1 @@
-alpine/dfimage
+openjdk:28-ea-trixie
